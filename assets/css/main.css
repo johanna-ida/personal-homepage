@@ -2593,7 +2593,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Source Sans Pro';
 			font-weight: 400;
 		}
 
@@ -2610,7 +2610,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Source Sans Pro';
 		}
 
 		.icon.style2:before {
